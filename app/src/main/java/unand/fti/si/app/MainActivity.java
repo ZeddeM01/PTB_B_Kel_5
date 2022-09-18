@@ -1,4 +1,4 @@
-package unand.fti.si.login;
+package unand.fti.si.app;
 
 import android.os.Bundle;
 
@@ -13,7 +13,7 @@ import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
-import unand.fti.si.login.databinding.ActivityMainBinding;
+import unand.fti.si.app.databinding.ActivityMainBinding;
 
 import android.view.Menu;
 import android.view.MenuItem;
