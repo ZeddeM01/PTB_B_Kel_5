@@ -3,13 +3,6 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/mzmil/AndroidStudioProjects/Login/app/src/main/res/layout/activity_form_pembimbing_ta.xml" value="0.10364583333333334" />
-        <entry key="..\:/Users/mzmil/AndroidStudioProjects/Login/app/src/main/res/layout/activity_homepage.xml" value="0.22" />
-        <entry key="..\:/Users/mzmil/AndroidStudioProjects/Login/app/src/main/res/layout/activity_jadwal_seminar.xml" value="0.21739130434782608" />
-        <entry key="..\:/Users/mzmil/AndroidStudioProjects/Login/app/src/main/res/layout/activity_jadwal_sidang.xml" value="0.21739130434782608" />
-        <entry key="..\:/Users/mzmil/AndroidStudioProjects/Login/app/src/main/res/layout/activity_list_dosen_penguji_sidang.xml" value="0.21739130434782608" />
-        <entry key="..\:/Users/mzmil/AndroidStudioProjects/Login/app/src/main/res/layout/activity_list_permintaan_ta.xml" value="0.1" />
-        <entry key="..\:/Users/mzmil/AndroidStudioProjects/Login/app/src/main/res/layout/activity_login.xml" value="0.25" />
       </map>
     </option>
   </component>
