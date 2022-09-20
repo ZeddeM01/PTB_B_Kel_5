@@ -1,4 +1,4 @@
-package unand.fti.si.login;
+package unand.fti.si.app;
 
 import android.content.Context;
 
