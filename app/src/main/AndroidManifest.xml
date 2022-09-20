@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="unand.fti.si.login">
+    package="unand.fti.si.app">
 
     <application
         android:allowBackup="true"
@@ -14,7 +14,37 @@
         android:theme="@style/Theme.Login"
         tools:targetApi="31">
         <activity
-            android:name=".DetailSeminar"
+            android:name=".jadwalSidangActivity"
+            android:exported="false" />
+        <activity
+            android:name=".jadwalSeminarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".listDosenPengujiSidangActivity"
+            android:exported="false" />
+        <activity
+            android:name=".listPermintaanSidangActivity"
+            android:exported="false" />
+        <activity
+            android:name=".listDosenPengujiSeminarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".listPesertaSeminarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".listPermintaanSeminarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".formPembimbingTA"
+            android:exported="false" />
+        <activity
+            android:name=".listPermintaanTaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".homepageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".loginActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

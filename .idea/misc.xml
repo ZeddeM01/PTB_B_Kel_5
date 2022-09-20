@@ -3,15 +3,27 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PTB_B_Kel_5/app/src/main/res/layout/activity_detail_seminar.xml" value="0.21666666666666667" />
-        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PTB_B_Kel_5/app/src/main/res/layout/activity_main.xml" value="0.21666666666666667" />
-        <entry key="..\:/Users/mzmil/AndroidStudioProjects/Login/app/src/main/res/layout/activity_form_pembimbing_ta.xml" value="0.10364583333333334" />
-        <entry key="..\:/Users/mzmil/AndroidStudioProjects/Login/app/src/main/res/layout/activity_homepage.xml" value="0.22" />
-        <entry key="..\:/Users/mzmil/AndroidStudioProjects/Login/app/src/main/res/layout/activity_jadwal_seminar.xml" value="0.21739130434782608" />
-        <entry key="..\:/Users/mzmil/AndroidStudioProjects/Login/app/src/main/res/layout/activity_jadwal_sidang.xml" value="0.21739130434782608" />
-        <entry key="..\:/Users/mzmil/AndroidStudioProjects/Login/app/src/main/res/layout/activity_list_dosen_penguji_sidang.xml" value="0.21739130434782608" />
-        <entry key="..\:/Users/mzmil/AndroidStudioProjects/Login/app/src/main/res/layout/activity_list_permintaan_ta.xml" value="0.1" />
-        <entry key="..\:/Users/mzmil/AndroidStudioProjects/Login/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PTB_B_Kel_5/app/src/main/res/drawable/gradient_toolbar.xml" value="0.181" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PTB_B_Kel_5/app/src/main/res/drawable/ic_back.xml" value="0.182" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PTB_B_Kel_5/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.182" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PTB_B_Kel_5/app/src/main/res/drawable/ic_launcher_background.xml" value="0.182" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PTB_B_Kel_5/app/src/main/res/layout/activity_detail_seminar.xml" value="0.18461539003270633" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PTB_B_Kel_5/app/src/main/res/layout/activity_form_pembimbing_ta.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PTB_B_Kel_5/app/src/main/res/layout/activity_homepage.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PTB_B_Kel_5/app/src/main/res/layout/activity_jadwal_seminar.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PTB_B_Kel_5/app/src/main/res/layout/activity_jadwal_sidang.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PTB_B_Kel_5/app/src/main/res/layout/activity_list_dosen_penguji_seminar.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PTB_B_Kel_5/app/src/main/res/layout/activity_list_dosen_penguji_sidang.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PTB_B_Kel_5/app/src/main/res/layout/activity_list_permintaan_seminar.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PTB_B_Kel_5/app/src/main/res/layout/activity_list_permintaan_sidang.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PTB_B_Kel_5/app/src/main/res/layout/activity_list_permintaan_ta.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PTB_B_Kel_5/app/src/main/res/layout/activity_list_peserta_seminar.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PTB_B_Kel_5/app/src/main/res/layout/activity_login.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PTB_B_Kel_5/app/src/main/res/layout/activity_main.xml" value="0.1734375" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PTB_B_Kel_5/app/src/main/res/layout/activity_main2.xml" value="0.1734375" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PTB_B_Kel_5/app/src/main/res/layout/content_main.xml" value="0.1734375" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PTB_B_Kel_5/app/src/main/res/layout/fragment_first.xml" value="0.1734375" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/PTB_B_Kel_5/app/src/main/res/layout/jadwal_sidang.xml" value="0.21666666666666667" />
       </map>
     </option>
   </component>
